@@ -1,0 +1,20 @@
+body {
+    background-color:green;
+}
+#quick {
+    color:aqua
+}
+
+#score {
+    font-size:25px;
+    float:left;
+}
+
+#Timer {
+    font-size:25px;
+float:right;
+}
+
+#drawn {
+    color:red
+}
